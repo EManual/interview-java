@@ -1,0 +1,8 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "解释一下Applet的生命周期",
+    "answer": "applet可以经历下面的状态：\n\n  * Init：每次被载入的时候都会被初始化。\n  * Start：开始执行applet。\n  * Stop：结束执行applet。\n  * Destroy：卸载applet之前，做最后的清理工作。"
+}

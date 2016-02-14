@@ -1,0 +1,8 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "HTTP响应的结构是怎么样的？",
+    "answer": "HTTP响应由三个部分组成：\n\n状态码(Status Code)：描述了响应的状态。可以用来检查是否成功的完成了请求。请求失败的情况下，状态码可用来找出失败的原因。如果Servlet没有返\n回状态码，默认会返回成功的状态码HttpServletResponse.SC_OK。\n\nHTTP头部(HTTP Header)：它们包含了更多关于响应的信息。比如：头部可以指定认为响应过期的过期日期，或者是指定用来给用户安全的传输实体内容的编码\n格式。如何在Serlet中检索HTTP的头部看[这里](http://examples.javacodegeeks.com/enterprise-\njava/servlet/get-all-request-headers-in-servlet/)。\n\n主体(Body)：它包含了响应的内容。它可以包含HTML代码，图片，等等。主体是由传输在HTTP消息中紧跟在头部后面的数据字节组成的。"
+}

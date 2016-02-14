@@ -1,0 +1,8 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "事件监听器接口(event-listener interface)和事件适配器(event-adapter)有什么关系？",
+    "answer": "事件监听器接口定义了对特定的事件，事件处理器必须要实现的方法。事件适配器给事件监听器接口提供了默认的实现。"
+}

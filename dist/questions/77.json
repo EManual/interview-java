@@ -1,0 +1,8 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "什么时候使用CallableStatement？用来准备CallableStatement的方法是什么？",
+    "answer": "CallableStatement用来执行存储过程。存储过程是由数据库存储和提供的。存储过程可以接受输入参数，也可以有返回结果。非常鼓励使用存储过程，因为它\n提供了安全性和模块化。准备一个CallableStatement的方法是：\n\n    CallableStament.prepareCall();"
+}

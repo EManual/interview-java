@@ -1,0 +1,8 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "什么是布局管理器？",
+    "answer": "布局管理器用来在容器中组织组件。"
+}
