@@ -1,4 +1,5 @@
-OUTPUT=./dist/questions
+OUTPUT=./dist
+OUTPUT_QUESTIONS=$(OUTPUT)/questions
 TARGET=./questions/*.md 
 
 
@@ -11,8 +12,11 @@ pre-build:
 	mkdir -p $(OUTPUT)
 
 build:
-	emanual-interview jsonify --output $(OUTPUT) $(TARGET)
+	emanual-interview jsonify --output $(OUTPUT_QUESTIONS) $(TARGET)
 
-main: pre-build build
+package:
+	cd $(OUTPUT) && zip -vr questions.zip questions/ 
+
+main: pre-build build package
 
 .PHONY: pre-build build main
