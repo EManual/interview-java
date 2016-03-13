@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "解释下驱动(Driver)在JDBC中的角色。",
-    "answer": "JDBC驱动提供了特定厂商对JDBC API接口类的实现，驱动必须要提供java.sql包下面这些类的实现：[Connection](http://docs\n.oracle.com/javase/7/docs/api/java/sql/Connection.html),\n[Statement](http://docs.oracle.com/javase/7/docs/api/java/sql/Statement.html),\n[PreparedStatement](http://docs.oracle.com/javase/7/docs/api/java/sql/Prepared\nStatement.html),[CallableStatement](http://docs.oracle.com/javase/7/docs/api/j\nava/sql/CallableStatement.html), [ResultSet](http://docs.oracle.com/javase/7/d\nocs/api/java/sql/ResultSet.html)和[Driver](http://docs.oracle.com/javase/7/docs\n/api/java/sql/Driver.html)。"
+    "answer": "JDBC驱动提供了特定厂商对JDBC API接口类的实现，驱动必须要提供java.sql包下面这些类的实现：[Connection](http://docs\n.oracle.com/javase/7/docs/api/java/sql/Connection.html),\n[Statement](http://docs.oracle.com/javase/7/docs/api/java/sql/Statement.html),\n[PreparedStatement](http://docs.oracle.com/javase/7/docs/api/java/sql/Prepared\nStatement.html),[CallableStatement](http://docs.oracle.com/javase/7/docs/api/j\nava/sql/CallableStatement.html), [ResultSet](http://docs.oracle.com/javase/7/d\nocs/api/java/sql/ResultSet.html)和[Driver](http://docs.oracle.com/javase/7/docs\n/api/java/sql/Driver.html)。",
+    "options": []
 }

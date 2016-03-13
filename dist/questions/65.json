@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "边缘布局(BorderLayout)里面的元素是如何布局的？",
-    "answer": "BorderLayout里面的元素是按照容器的东西南北中进行布局的。"
+    "answer": "BorderLayout里面的元素是按照容器的东西南北中进行布局的。",
+    "options": []
 }

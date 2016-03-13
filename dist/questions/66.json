@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "网格包布局(GridBagLayout)里面的元素是如何布局的？",
-    "answer": "GridBagLayout里面的元素是按照网格进行布局的。不同大小的元素可能会占据网格的多于1行或一列。因此，行数和列数可以有不同的大小。"
+    "answer": "GridBagLayout里面的元素是按照网格进行布局的。不同大小的元素可能会占据网格的多于1行或一列。因此，行数和列数可以有不同的大小。",
+    "options": []
 }

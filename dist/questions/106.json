@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "sendRedirect()和forward()方法有什么区别？",
-    "answer": "sendRedirect()方法会创建一个新的请求，而forward()方法只是把请求转发到一个新的目标上。重定向(redirect)以后，之前请求作用域范\n围以内的对象就失效了，因为会产生一个新的请求，而转发(forwarding)以后，之前请求作用域范围以内的对象还是能访问的。一般认为sendRedirect\n()比forward()要慢。"
+    "answer": "sendRedirect()方法会创建一个新的请求，而forward()方法只是把请求转发到一个新的目标上。重定向(redirect)以后，之前请求作用域范\n围以内的对象就失效了，因为会产生一个新的请求，而转发(forwarding)以后，之前请求作用域范围以内的对象还是能访问的。一般认为sendRedirect\n()比forward()要慢。",
+    "options": []
 }

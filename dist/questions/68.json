@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "裁剪(clipping)和重绘(repainting)有什么联系？",
-    "answer": "当窗口被AWT重绘线程进行重绘的时候，它会把裁剪区域设置成需要重绘的窗口的区域。"
+    "answer": "当窗口被AWT重绘线程进行重绘的时候，它会把裁剪区域设置成需要重绘的窗口的区域。",
+    "options": []
 }

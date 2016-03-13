@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "什么是JSP动作(JSP action)？",
-    "answer": "JSP动作以XML语法的结构来控制Servlet引擎的行为。当JSP页面被请求的时候，JSP动作会被执行。它们可以被动态的插入到文件中，重用JavaBean\n组件，转发用户到其他的页面，或者是给Java插件产生HTML代码。下面列出了可用的动作：\n\n  * jsp:include-当JSP页面被请求的时候包含一个文件。\n  * jsp:useBean-找出或者是初始化Javabean。\n  * jsp:setProperty-设置JavaBean的属性。\n  * jsp:getProperty-获取JavaBean的属性。\n  * jsp:forward-把请求转发到新的页面。\n  * jsp:plugin-产生特定浏览器的代码。"
+    "answer": "JSP动作以XML语法的结构来控制Servlet引擎的行为。当JSP页面被请求的时候，JSP动作会被执行。它们可以被动态的插入到文件中，重用JavaBean\n组件，转发用户到其他的页面，或者是给Java插件产生HTML代码。下面列出了可用的动作：\n\n  * jsp:include-当JSP页面被请求的时候包含一个文件。\n  * jsp:useBean-找出或者是初始化Javabean。\n  * jsp:setProperty-设置JavaBean的属性。\n  * jsp:getProperty-获取JavaBean的属性。\n  * jsp:forward-把请求转发到新的页面。\n  * jsp:plugin-产生特定浏览器的代码。",
+    "options": []
 }

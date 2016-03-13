@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "什么是裁剪(clipping)？",
-    "answer": "限制在一个给定的区域或者形状的绘图操作就做裁剪。"
+    "answer": "限制在一个给定的区域或者形状的绘图操作就做裁剪。",
+    "options": []
 }

@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "Java的Swing组件使用了哪种[设计模式](http://www.amazon.cn/gp/product/B001130JN8/ref=as_l",
-    "answer": "0&creativeASIN=B001130JN8)？\n\nJava中的Swing组件使用了MVC(视图-模型-控制器)设计模式。"
+    "answer": "0&creativeASIN=B001130JN8)？\n\nJava中的Swing组件使用了MVC(视图-模型-控制器)设计模式。",
+    "options": []
 }

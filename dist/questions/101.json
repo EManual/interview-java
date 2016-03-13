@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "如何知道是哪一个客户端的机器正在请求你的Servlet？",
-    "answer": "ServletRequest类可以找出客户端机器的IP地址或者是主机名。getRemoteAddr()方法获取客户端主机的IP地址，getRemoteHos\nt()可以获取主机名。看下[这里](http://examples.javacodegeeks.com/enterprise-java/servlet\n/get-client-s-address-and-hostname-in-servlet/)的例子。"
+    "answer": "ServletRequest类可以找出客户端机器的IP地址或者是主机名。getRemoteAddr()方法获取客户端主机的IP地址，getRemoteHos\nt()可以获取主机名。看下[这里](http://examples.javacodegeeks.com/enterprise-java/servlet\n/get-client-s-address-and-hostname-in-servlet/)的例子。",
+    "options": []
 }

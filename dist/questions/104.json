@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "浏览器和Servlet通信使用的是什么协议？",
-    "answer": "浏览器和Servlet通信使用的是HTTP协议。"
+    "answer": "浏览器和Servlet通信使用的是HTTP协议。",
+    "options": []
 }

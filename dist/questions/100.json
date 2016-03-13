@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "什么是Servlet链(Servlet Chaining)？",
-    "answer": "Servlet链是把一个Servlet的输出发送给另一个Servlet的方法。第二个Servlet的输出可以发送给第三个Servlet，依次类推。链条上最后\n一个Servlet负责把响应发送给客户端。"
+    "answer": "Servlet链是把一个Servlet的输出发送给另一个Servlet的方法。第二个Servlet的输出可以发送给第三个Servlet，依次类推。链条上最后\n一个Servlet负责把响应发送给客户端。",
+    "options": []
 }

@@ -4,5 +4,6 @@
     "difficulty": "1",
     "from": "网络整理",
     "description": "什么是不受信任的applet？",
-    "answer": "不受信任的applet是不能访问或是执行本地系统文件的Java applet，默认情况下，所有下载的applet都是不受信任的。"
+    "answer": "不受信任的applet是不能访问或是执行本地系统文件的Java applet，默认情况下，所有下载的applet都是不受信任的。",
+    "options": []
 }
