@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "System.gc()和Runtime.gc()会做什么事情？",
+    "answer": "这两个方法用来提示JVM要进行垃圾回收。但是，立即开始还是延迟进行垃圾回收是取决于JVM的。",
+    "options": []
+}

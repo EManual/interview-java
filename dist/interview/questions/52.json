@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "Applet和普通的Java应用程序有什么区别？",
+    "answer": "applet是运行在启用了java的浏览器中，Java应用程序是可以在浏览器之外运行的独立的Java程序。但是，它们都需要有Java虚拟机。\n\n进一步来说，Java应用程序需要一个有特定方法签名的main函数来开始执行。Java applet不需要这样的函数来开始执行。\n\n最后，Java applet一般会使用很严格的安全策略，Java应用一般使用比较宽松的安全策略。",
+    "options": []
+}

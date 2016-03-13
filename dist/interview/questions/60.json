@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "滚动条(Scrollbar)和滚动面板(JScrollPane)有什么区别？",
+    "answer": "Scrollbar是一个组件，不是容器。而ScrollPane是容器。ScrollPane自己处理滚动事件。",
+    "options": []
+}

@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "概括的解释下线程的几种可用状态。",
+    "answer": "线程在执行过程中，可以处于下面几种状态：\n\n  * 就绪(Runnable):线程准备运行，不一定立马就能开始执行。\n  * 运行中(Running)：进程正在执行线程的代码。\n  * 等待中(Waiting):线程处于阻塞的状态，等待外部的处理结束。\n  * 睡眠中(Sleeping)：线程被强制睡眠。\n  * I/O阻塞(Blocked on I/O)：等待I/O操作完成。\n  * 同步阻塞(Blocked on Synchronization)：等待获取锁。\n  * 死亡(Dead)：线程完成了执行。",
+    "options": []
+}

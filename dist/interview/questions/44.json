@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "Java中Exception和Error有什么区别？",
+    "answer": "Exception和Error都是Throwable的子类。Exception用于用户程序可以捕获的异常情况。Error定义了不期望被用户程序捕获的异常。",
+    "options": []
+}

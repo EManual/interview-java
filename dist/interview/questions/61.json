@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "哪些Swing的方法是线程安全的？",
+    "answer": "只有3个线程安全的方法： repaint(), revalidate(), and invalidate()。",
+    "options": []
+}

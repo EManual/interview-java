@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "从网络上加载的applet和从本地文件系统加载的applet有什么区别？",
+    "answer": "当applet是从网络上加载的时候，applet是由applet类加载器载入的，它受applet安全管理器的限制。\n\n当applet是从客户端的本地磁盘载入的时候，applet是由文件系统加载器载入的。\n\n从文件系统载入的applet允许在客户端读文件，写文件，加载类库，并且也允许执行其他程序，但是，却通不过字节码校验。",
+    "options": []
+}

@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "异常处理的时候，finally代码块的重要性是什么？",
+    "answer": "无论是否抛出异常，finally代码块总是会被执行。就算是没有catch语句同时又抛出异常的情况下，finally代码块仍然会被执行。最后要说的是，fina\nlly代码块主要用来释放资源，比如：I/O缓冲区，数据库连接。",
+    "options": []
+}

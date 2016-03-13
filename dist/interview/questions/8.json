@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "Java支持多继承么？",
+    "answer": "不支持，Java不支持多继承。每个类都只能继承一个类，但是可以实现多个接口。",
+    "options": []
+}

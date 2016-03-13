@@ -1,0 +1,9 @@
+{
+    "type": "reply",
+    "tag": "java",
+    "difficulty": "1",
+    "from": "网络整理",
+    "description": "什么是JSP页面？",
+    "answer": "JSP页面是一种包含了静态数据和JSP元素两种类型的文本的文本文档。静态数据可以用任何基于文本的格式来表示，比如：HTML或者XML。JSP是一种混合了静态\n内容和动态产生的内容的技术。这里看下[JSP的例子](http://examples.javacodegeeks.com/enterprise-\njava/jsp/sample-jsp-java-server-page/)。",
+    "options": []
+}

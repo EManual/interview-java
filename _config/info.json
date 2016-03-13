@@ -1,0 +1,17 @@
+{
+	"info": {
+		"name": "java",
+		"name_cn": "Java试题",
+		"md5": "71fc5dfa91baa65440f80d6740490337",
+		"icon_url": "http://emanualresource.github.io/resource/icons/java.png",
+		"url": "http://emanualresource.github.io/interview-java/dist/interview.zip",
+		"author": "EManual",
+		"homepage": "https://github.com/EManualResource/interview-java",
+		"maintainers": [
+			{
+				"name": "Jayin Ton",
+				"email": "tonjayin@gmail.com"
+			}
+		]
+	}
+}
