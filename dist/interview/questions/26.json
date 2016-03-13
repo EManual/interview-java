@@ -3,7 +3,7 @@
     "tag": "java",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "数组(Array)和列表(ArrayList)有什么区别？什么时候应该使用Array而不是ArrayList？",
-    "answer": "下面列出了Array和ArrayList的不同点：\n\n  * Array可以包含基本类型和对象类型，ArrayList只能包含对象类型。\n  * Array大小是固定的，ArrayList的大小是动态变化的。\n  * ArrayList提供了更多的方法和特性，比如：addAll()，removeAll()，iterator()等等。\n  * 对于基本类型数据，集合使用自动装箱来减少编码工作量。但是，当处理固定大小的基本数据类型的时候，这种方式相对比较慢。",
+    "description": "<p>数组(Array)和列表(ArrayList)有什么区别？什么时候应该使用Array而不是ArrayList？</p>\n",
+    "answer": "<p>下面列出了Array和ArrayList的不同点：</p>\n<ul>\n<li>Array可以包含基本类型和对象类型，ArrayList只能包含对象类型。</li>\n<li>Array大小是固定的，ArrayList的大小是动态变化的。</li>\n<li>ArrayList提供了更多的方法和特性，比如：addAll()，removeAll()，iterator()等等。</li>\n<li>对于基本类型数据，集合使用自动装箱来减少编码工作量。但是，当处理固定大小的基本数据类型的时候，这种方式相对比较慢。</li>\n</ul>\n",
     "options": []
 }

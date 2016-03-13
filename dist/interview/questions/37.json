@@ -3,7 +3,7 @@
     "tag": "java",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "finalize()方法什么时候被调用？析构函数(finalization)的目的是什么？",
-    "answer": "在释放对象占用的内存之前，垃圾收集器会调用对象的finalize()方法。一般建议在该方法中释放对象持有的资源。",
+    "description": "<p>finalize()方法什么时候被调用？析构函数(finalization)的目的是什么？</p>\n",
+    "answer": "<p>在释放对象占用的内存之前，垃圾收集器会调用对象的finalize()方法。一般建议在该方法中释放对象持有的资源。</p>\n",
     "options": []
 }

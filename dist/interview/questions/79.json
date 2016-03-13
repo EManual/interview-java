@@ -3,7 +3,7 @@
     "tag": "java",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "什么是RMI？",
-    "answer": "Java远程方法调用(Java RMI)是Java API对远程过程调用(RPC)提供的面向对象的等价形式，支持直接传输序列化的Java对象和分布式垃圾回收\n。远程方法调用可以看做是激活远程正在运行的对象上的方法的步骤。RMI对调用者是位置透明的，因为调用者感觉方法是执行在本地运行的对象上的。看下[RMI的一些注\n意事项](http://www.javacodegeeks.com/2013/11/two-things-to-remember-when-using-\njava-rmi.html)。",
+    "description": "<p>什么是RMI？</p>\n",
+    "answer": "<p>Java远程方法调用(Java RMI)是Java API对远程过程调用(RPC)提供的面向对象的等价形式，支持直接传输序列化的Java对象和分布式垃圾回收\n。远程方法调用可以看做是激活远程正在运行的对象上的方法的步骤。RMI对调用者是位置透明的，因为调用者感觉方法是执行在本地运行的对象上的。看下<a href=\"http://www.javacodegeeks.com/2013/11/two-things-to-remember-when-using-\njava-rmi.html\">RMI的一些注\n意事项</a>。</p>\n",
     "options": []
 }

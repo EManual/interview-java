@@ -3,7 +3,7 @@
     "tag": "java",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "接口和抽象类的区别是什么？",
-    "answer": "Java提供和支持创建抽象类和接口。它们的实现有共同点，不同点在于：\n\n  * 接口中所有的方法隐含的都是抽象的。而抽象类则可以同时包含抽象和非抽象的方法。\n  * 类可以实现很多个接口，但是只能继承一个抽象类\n  * 类如果要实现一个接口，它必须要实现接口声明的所有方法。但是，类可以不实现抽象类声明的所有方法，当然，在这种情况下，类也必须得声明成是抽象的。\n  * 抽象类可以在不提供接口方法实现的情况下实现接口。\n  * Java接口中声明的变量默认都是final的。抽象类可以包含非final的变量。\n  * Java接口中的成员函数默认是public的。抽象类的成员函数可以是private，protected或者是public。\n  * 接口是绝对抽象的，不可以被实例化。抽象类也不可以被实例化，但是，如果它包含main方法的话是可以被调用的。\n\n也可以参考[JDK8中抽象类和接口的区别](http://www.javacodegeeks.com/2014/04/abstract-class-\nversus-interface-in-the-jdk-8-era.html)",
+    "description": "<p>接口和抽象类的区别是什么？</p>\n",
+    "answer": "<p>Java提供和支持创建抽象类和接口。它们的实现有共同点，不同点在于：</p>\n<ul>\n<li>接口中所有的方法隐含的都是抽象的。而抽象类则可以同时包含抽象和非抽象的方法。</li>\n<li>类可以实现很多个接口，但是只能继承一个抽象类</li>\n<li>类如果要实现一个接口，它必须要实现接口声明的所有方法。但是，类可以不实现抽象类声明的所有方法，当然，在这种情况下，类也必须得声明成是抽象的。</li>\n<li>抽象类可以在不提供接口方法实现的情况下实现接口。</li>\n<li>Java接口中声明的变量默认都是final的。抽象类可以包含非final的变量。</li>\n<li>Java接口中的成员函数默认是public的。抽象类的成员函数可以是private，protected或者是public。</li>\n<li>接口是绝对抽象的，不可以被实例化。抽象类也不可以被实例化，但是，如果它包含main方法的话是可以被调用的。</li>\n</ul>\n<p>也可以参考<a href=\"http://www.javacodegeeks.com/2014/04/abstract-class-\nversus-interface-in-the-jdk-8-era.html\">JDK8中抽象类和接口的区别</a></p>\n",
     "options": []
 }

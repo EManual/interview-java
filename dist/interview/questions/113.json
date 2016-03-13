@@ -3,7 +3,7 @@
     "tag": "java",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "什么是Scriptlets？",
-    "answer": "JSP技术中，scriptlet是嵌入在JSP页面中的一段Java代码。scriptlet是位于标签内部的所有的东西，在标签与标签之间，用户可以添加任意有效\n的scriplet。",
+    "description": "<p>什么是Scriptlets？</p>\n",
+    "answer": "<p>JSP技术中，scriptlet是嵌入在JSP页面中的一段Java代码。scriptlet是位于标签内部的所有的东西，在标签与标签之间，用户可以添加任意有效\n的scriplet。</p>\n",
     "options": []
 }

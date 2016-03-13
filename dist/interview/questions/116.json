@@ -3,7 +3,7 @@
     "tag": "java",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "JSP中的隐含对象是什么意思？有哪些隐含对象？",
-    "answer": "JSP隐含对象是页面中的一些Java对象，JSP容器让这些Java对象可以为开发者所使用。开发者不用明确的声明就可以直接使用他们。JSP隐含对象也叫做预定义\n变量。下面列出了JSP页面中的隐含对象：\n\n  * application\n  * page\n  * request\n  * response\n  * session\n  * exception\n  * out\n  * config\n  * pageContext",
+    "description": "<p>JSP中的隐含对象是什么意思？有哪些隐含对象？</p>\n",
+    "answer": "<p>JSP隐含对象是页面中的一些Java对象，JSP容器让这些Java对象可以为开发者所使用。开发者不用明确的声明就可以直接使用他们。JSP隐含对象也叫做预定义\n变量。下面列出了JSP页面中的隐含对象：</p>\n<ul>\n<li>application</li>\n<li>page</li>\n<li>request</li>\n<li>response</li>\n<li>session</li>\n<li>exception</li>\n<li>out</li>\n<li>config</li>\n<li>pageContext</li>\n</ul>\n",
     "options": []
 }

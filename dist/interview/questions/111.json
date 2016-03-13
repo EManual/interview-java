@@ -3,7 +3,7 @@
     "tag": "java",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "什么是JSP指令(Directive)？JSP中有哪些不同类型的指令？",
-    "answer": "Directive是当JSP页面被编译成Servlet的时候，JSP引擎要处理的指令。Directive用来设置页面级别的指令，从外部文件插入数据，指定自定\n义的标签库。Directive是定义在之间的。下面列出了不同类型的Directive：\n\n  * 包含指令(Include directive)：用来包含文件和合并文件内容到当前的页面。\n  * 页面指令(Page directive)：用来定义JSP页面中特定的属性，比如错误页面和缓冲区。\n  * Taglib指令： 用来声明页面中使用的自定义的标签库。",
+    "description": "<p>什么是JSP指令(Directive)？JSP中有哪些不同类型的指令？</p>\n",
+    "answer": "<p>Directive是当JSP页面被编译成Servlet的时候，JSP引擎要处理的指令。Directive用来设置页面级别的指令，从外部文件插入数据，指定自定\n义的标签库。Directive是定义在之间的。下面列出了不同类型的Directive：</p>\n<ul>\n<li>包含指令(Include directive)：用来包含文件和合并文件内容到当前的页面。</li>\n<li>页面指令(Page directive)：用来定义JSP页面中特定的属性，比如错误页面和缓冲区。</li>\n<li>Taglib指令： 用来声明页面中使用的自定义的标签库。</li>\n</ul>\n",
     "options": []
 }

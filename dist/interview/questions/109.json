@@ -3,7 +3,7 @@
     "tag": "java",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "JSP请求是如何被处理的？",
-    "answer": "浏览器首先要请求一个以.jsp扩展名结尾的页面，发起JSP请求，然后，Web服务器读取这个请求，使用JSP编译器把JSP页面转化成一个Servlet类。需要\n注意的是，只有当第一次请求页面或者是JSP文件发生改变的时候JSP文件才会被编译，然后服务器调用servlet类，处理浏览器的请求。一旦请求执行结束，ser\nvlet会把响应发送给客户端。这里看下[如何在JSP中获取请求参数](http://examples.javacodegeeks.com\n/enterprise-java/jsp/get-request-parameter-in-jsp-page/)。",
+    "description": "<p>JSP请求是如何被处理的？</p>\n",
+    "answer": "<p>浏览器首先要请求一个以.jsp扩展名结尾的页面，发起JSP请求，然后，Web服务器读取这个请求，使用JSP编译器把JSP页面转化成一个Servlet类。需要\n注意的是，只有当第一次请求页面或者是JSP文件发生改变的时候JSP文件才会被编译，然后服务器调用servlet类，处理浏览器的请求。一旦请求执行结束，ser\nvlet会把响应发送给客户端。这里看下<a href=\"http://examples.javacodegeeks.com\n/enterprise-java/jsp/get-request-parameter-in-jsp-page/\">如何在JSP中获取请求参数</a>。</p>\n",
     "options": []
 }

@@ -3,7 +3,7 @@
     "tag": "java",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "快速失败(fail-fast)和安全失败(fail-safe)的区别是什么？",
-    "answer": "Iterator的安全失败是基于对底层集合做拷贝，因此，它不受源集合上修改的影响。java.util包下面的所有的集合类都是快速失败的，而java.util\n.concurrent包下面的所有的类都是安全失败的。快速失败的迭代器会抛出ConcurrentModificationException异常，而安全失败的\n迭代器永远不会抛出这样的异常。",
+    "description": "<p>快速失败(fail-fast)和安全失败(fail-safe)的区别是什么？</p>\n",
+    "answer": "<p>Iterator的安全失败是基于对底层集合做拷贝，因此，它不受源集合上修改的影响。java.util包下面的所有的集合类都是快速失败的，而java.util\n.concurrent包下面的所有的类都是安全失败的。快速失败的迭代器会抛出ConcurrentModificationException异常，而安全失败的\n迭代器永远不会抛出这样的异常。</p>\n",
     "options": []
 }

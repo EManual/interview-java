@@ -3,7 +3,7 @@
     "tag": "java",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "当applet被载入的时候会发生什么？",
-    "answer": "首先，创建applet控制类的实例，然后初始化applet，最后开始运行。",
+    "description": "<p>当applet被载入的时候会发生什么？</p>\n",
+    "answer": "<p>首先，创建applet控制类的实例，然后初始化applet，最后开始运行。</p>\n",
     "options": []
 }

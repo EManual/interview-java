@@ -3,7 +3,7 @@
     "tag": "java",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "Class.forName()方法有什么作用？",
-    "answer": "这个方法用来载入跟数据库建立连接的驱动。",
+    "description": "<p>Class.forName()方法有什么作用？</p>\n",
+    "answer": "<p>这个方法用来载入跟数据库建立连接的驱动。</p>\n",
     "options": []
 }

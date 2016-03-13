@@ -3,7 +3,7 @@
     "tag": "java",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "PreparedStatement比Statement有什么优势？",
-    "answer": "PreparedStatements是预编译的，因此，性能会更好。同时，不同的查询参数值，PreparedStatement可以重用。",
+    "description": "<p>PreparedStatement比Statement有什么优势？</p>\n",
+    "answer": "<p>PreparedStatements是预编译的，因此，性能会更好。同时，不同的查询参数值，PreparedStatement可以重用。</p>\n",
     "options": []
 }

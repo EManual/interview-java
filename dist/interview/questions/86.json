@@ -3,7 +3,7 @@
     "tag": "java",
     "difficulty": "1",
     "from": "网络整理",
-    "description": "让RMI程序能正确运行有哪些步骤？",
-    "answer": "为了让RMI程序能正确运行必须要包含以下几个步骤：\n\n  * 编译所有的源文件。\n  * 使用rmic生成stub。\n  * 启动rmiregistry。\n  * 启动RMI服务器。\n  * 运行客户端程序。",
+    "description": "<p>让RMI程序能正确运行有哪些步骤？</p>\n",
+    "answer": "<p>为了让RMI程序能正确运行必须要包含以下几个步骤：</p>\n<ul>\n<li>编译所有的源文件。</li>\n<li>使用rmic生成stub。</li>\n<li>启动rmiregistry。</li>\n<li>启动RMI服务器。</li>\n<li>运行客户端程序。</li>\n</ul>\n",
     "options": []
 }
