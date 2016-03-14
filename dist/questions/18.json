@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "Java集合类框架的基本接口有哪些？",
-    "answer": "Java集合类提供了一套设计良好的支持对一组对象进行操作的接口和类。Java集合类里面最基本的接口有：\n\n  * Collection：代表一组对象，每一个对象都是它的子元素。\n  * Set：不包含重复元素的Collection。\n  * List：有顺序的collection，并且可以包含重复元素。\n  * Map：可以把键(key)映射到值(value)的对象，键不能重复。",
-    "options": []
-}

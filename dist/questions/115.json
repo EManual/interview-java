@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "什么是表达式(Expression)？",
-    "answer": "【列表很长，可以分上、中、下发布】\n\nJSP表达式是Web服务器把脚本语言表达式的值转化成一个String对象，插入到返回给客户端的数据流中。表达式是在这两个标签之间定义的。",
-    "options": []
-}

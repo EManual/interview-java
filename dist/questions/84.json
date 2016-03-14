@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "RMI的绑定(Binding)是什么意思？",
-    "answer": "绑定是为了查询找远程对象而给远程对象关联或者是注册以后会用到的名称的过程。远程对象可以使用Naming类的bind()或者rebind()方法跟名称相关联。",
-    "options": []
-}

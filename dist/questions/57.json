@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "applet安全管理器是什么？它会做哪些工作？",
-    "answer": "applet安全管理器是给applet施加限制条件的一种机制。浏览器可以只有一个安全管理器。安全管理器在启动的时候被创建，之后不能被替换覆盖或者是扩展。",
-    "options": []
-}

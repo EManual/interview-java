@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "RMI中使用RMI安全管理器(RMISecurityManager)的目的是什么？",
-    "answer": "RMISecurityManager使用下载好的代码提供可被RMI应用程序使用的安全管理器。如果没有设置安全管理器，RMI的类加载器就不会从远程下载任何的类\n。",
-    "options": []
-}

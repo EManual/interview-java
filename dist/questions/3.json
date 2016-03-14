@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "\"static\"关键字是什么意思？Java中是否可以覆盖(override)一个private或者是static的方法？",
-    "answer": "\"static\"关键字表明一个成员变量或者是成员方法可以在没有所属的类的实例变量的情况下被访问。\n\nJava中static方法不能被覆盖，因为方法覆盖是基于运行时动态绑定的，而static方法是编译时静态绑定的。static方法跟类的任何实例都不相关，所以\n概念上不适用。",
-    "options": []
-}

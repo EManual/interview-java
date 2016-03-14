@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "Window和Frame有什么区别？",
-    "answer": "Frame类继承了Window类，它定义了一个可以有菜单栏的主应用窗口。",
-    "options": []
-}

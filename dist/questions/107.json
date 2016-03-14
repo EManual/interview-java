@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "什么是URL编码和URL解码？",
-    "answer": "URL编码是负责把URL里面的空格和其他的特殊字符替换成对应的十六进制表示，反之就是解码。",
-    "options": []
-}

@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "什么是JDBC？",
-    "answer": "JDBC是允许用户在不同数据库之间做选择的一个抽象层。[JDBC允许开发者用JAVA写数据库应用程序](http://www.javacodegeeks.c\nom/2014/03/java-8-friday-java-8-will-revolutionize-database-\naccess.html)，而不需要关心底层特定数据库的细节。",
-    "options": []
-}

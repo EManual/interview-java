@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "让RMI程序能正确运行有哪些步骤？",
-    "answer": "为了让RMI程序能正确运行必须要包含以下几个步骤：\n\n  * 编译所有的源文件。\n  * 使用rmic生成stub。\n  * 启动rmiregistry。\n  * 启动RMI服务器。\n  * 运行客户端程序。",
-    "options": []
-}

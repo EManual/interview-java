@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "Java支持的数据类型有哪些？什么是自动拆装箱？",
-    "answer": "Java语言支持的8中基本数据类型是：\n\n  * byte\n  * short\n  * int\n  * long\n  * float\n  * double\n  * boolean\n  * char\n\n自动装箱是Java编译器在基本数据类型和对应的对象包装类型之间做的一个转化。比如：把int转化成Integer，double转化成double，等等。反之就\n是自动拆箱。",
-    "options": []
-}

@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "如果对象的引用被置为null，垃圾收集器是否会立即释放对象占用的内存？",
-    "answer": "不会，在下一个垃圾回收周期中，这个对象将是可被回收的。",
-    "options": []
-}

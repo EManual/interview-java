@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "说出三种支持重绘(painting)的组件。",
-    "answer": "Canvas, Frame, Panel,和Applet支持重绘。",
-    "options": []
-}

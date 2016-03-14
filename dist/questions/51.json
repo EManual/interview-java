@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "当applet被载入的时候会发生什么？",
-    "answer": "首先，创建applet控制类的实例，然后初始化applet，最后开始运行。",
-    "options": []
-}

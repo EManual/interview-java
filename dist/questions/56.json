@@ -1,9 +1,0 @@
-{
-    "type": "reply",
-    "tag": "java",
-    "difficulty": "1",
-    "from": "网络整理",
-    "description": "applet类加载器是什么？它会做哪些工作？",
-    "answer": "当applet是从网络上加载的时候，它是由applet类加载器载入的。类加载器有自己的java名称空间等级结构。类加载器会保证来自文件系统的类有唯一的名称空\n间，来自网络资源的类有唯一的名称空间。\n\n当浏览器通过网络载入applet的时候，applet的类被放置于和applet的源相关联的私有的名称空间中。然后，那些被类加载器载入进来的类都是通过了验证器\n验证的。验证器会检查类文件格式是否遵守Java语言规范，确保不会出现堆栈溢出(stack\noverflow)或者下溢(underflow)，传递给字节码指令的参数是正确的。",
-    "options": []
-}
